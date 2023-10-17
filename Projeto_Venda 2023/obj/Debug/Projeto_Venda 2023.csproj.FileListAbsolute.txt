@@ -1,0 +1,11 @@
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\bin\Debug\Projeto_Venda 2023.exe.config
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\bin\Debug\Projeto_Venda 2023.exe
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\bin\Debug\Projeto_Venda 2023.pdb
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda 2023.csproj.AssemblyReference.cache
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda_2023.Properties.Resources.resources
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda 2023.csproj.GenerateResource.cache
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda 2023.csproj.CoreCompileInputs.cache
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda 2023.exe
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda 2023.pdb
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Projeto_Venda_2023.FrmPrincipal.resources
+E:\Escolas\FUNEC\2023_2\DAD II\Projetos Aula\ProjetoVenda\Projeto_Venda 2023\obj\Debug\Aula_11_08.frmCadastroCidades.resources
